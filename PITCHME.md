@@ -11,16 +11,21 @@
 
 #HSLIDE
 
-## who i am
-- dev @csw
-- mainly c# and js        <!-- .element: class="fragment" -->
-- lazy. i like automation <!-- .element: class="fragment" -->
-- love cake               <!-- .element: class="fragment" -->
+## what is cake
+### Cake (C# Make) is a cross platform build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
+- build automation system              <!-- .element: class="fragment" -->
+- OSS project since 2014               <!-- .element: class="fragment" -->
+- now part of the .net foundation      <!-- .element: class="fragment" -->
+- Uses roslyn to run a c# dsl          <!-- .element: class="fragment" -->
 
 #HSLIDE
-## Slideshow Theme Switcher
-<span style="font-size:0.6em; color:gray">Available bottom-left of screen.</span> |
-<span style="font-size:0.6em; color:gray">Start switching themes right now!</span>
+## What is a build
+### Steps that need to be executed to get usefull artifacts from source code
+- restore              <!-- .element: class="fragment" -->
+- clean               <!-- .element: class="fragment" -->
+- build      <!-- .element: class="fragment" -->
+- test          <!-- .element: class="fragment" -->
+- package          <!-- .element: class="fragment" -->
 
 #HSLIDE
 
