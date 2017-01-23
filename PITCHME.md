@@ -3,7 +3,7 @@
 ## <span style="color:white">A PIECE OF CAKE</span>
 #HSLIDE
 
-## who i am
+## who i am ?
 - dev @csw
 - mainly c# and js        <!-- .element: class="fragment" -->
 - lazy. i like automation <!-- .element: class="fragment" -->
@@ -11,7 +11,7 @@
 
 #HSLIDE
 
-## what is cake
+## what is cake ?
 
 Cake (C# Make) is a cross platform build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
 
@@ -21,9 +21,9 @@ Cake (C# Make) is a cross platform build automation system with a C# DSL to do t
 - Uses roslyn to run a c# dsl          <!-- .element: class="fragment" -->
 
 #HSLIDE
-## What is a build
+## What is a build ?
 
-Steps that need to be executed to get usefull artifacts from source code
+Steps that need to be executed to get useful artifacts from source code
 
 - restore              <!-- .element: class="fragment" -->
 - clean               <!-- .element: class="fragment" -->
@@ -32,9 +32,14 @@ Steps that need to be executed to get usefull artifacts from source code
 - package          <!-- .element: class="fragment" -->
 
 #HSLIDE
+## How to bake with cake ?
 
-## Tip!
-For best viewing experience press **F** key to go fullscreen.
+- take a cake file
+- add args env vars at taste
+- if needed enhance with preprocessor directives
+- throw everything at cake.exe
+- wait for roslyn or mono to compile
+- see your cake executing!
 
 #HSLIDE
 
