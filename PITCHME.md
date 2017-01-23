@@ -34,29 +34,23 @@ Steps that need to be executed to get useful artifacts from source code
 #HSLIDE
 ## How to bake with cake ?
 
-- take a cake file
-- add args env vars at taste
-- if needed enhance with preprocessor directives
-- throw everything at cake.exe
-- wait for roslyn or mono to compile
-- see your cake executing!
+- take a cake file  <!-- .element: class="fragment" -->
+- add args env vars at taste  <!-- .element: class="fragment" -->
+- if needed enhance with preprocessor directives  <!-- .element: class="fragment" -->
+- throw everything at cake.exe  <!-- .element: class="fragment" -->
+- wait for roslyn or mono to compile  <!-- .element: class="fragment" -->
+- see your cake executing!  <!-- .element: class="fragment" -->
 
 #HSLIDE
 
-## Markdown Slides
-<span style="font-size:0.6em; color:gray">Press Down key for details.</span> |
-<span style="font-size:0.6em; color:gray">See <a href="https://github.com/gitpitch/gitpitch/wiki/Slide-Markdown" target="_blank">GitPitch Wiki</a> for details.</span>
+## What tools are available
 
-
-#VSLIDE
-
-#### Use GitHub Flavored Markdown
-#### For Slide Content Creation
-
-<br>
-
-The same tool you use to create project **READMEs** and **Wikis** for your Git repos.
-
+A LOT!
+- Builtin
+  - Arguments-Assembly Info-Build System-Cake-Chocolatey-Compression-Directory Operations-DNU-DotCover-DotNetBuild-DotNetCore-Environment-File Operations-Fixie-GitReleaseManager-GitReleaseNotes-GitTools-GitVersion-Globbing-HTTP Operations-ILMerge-ILRepack-Inno Setup-Logging-MSBuild-MSBuild Resource-MSTest-NSIS-NuGet-NUnit-NUnit v3-Octopus Deploy-OpenCover-Process-Release Notes-ReportGenerator-ReportUnit-ReSharper-Roundhouse-Security-Signing-SpecFlow-Text-VSTest-WiX-XBuild-XML-xUnit-xUnit v2
+- Addins
+  - AndroidAppManifest-AppleSimulator-AppPacakager-AppVeyor-AutoRest-AzureStorage-CakeMail-CMake-CocoaPods-Communication-Compression-Configuration-Coveralls-Curl-Database-Deployment-DocFx-Docker-DoInDirectory-Email-Figlet-File Helpers-File Operations-FluentMigrator-FTP-Gem-Genymotion-Git-Gitter-HipChat-HockeyApp-Http-Json-Kudu-MsDeploy-Node-Npm-NuGet-Orchard-Paket-plist-Postman-Raygun-ReSharperReports-Semantic Versioning-SemVer-SendGrid-Sonar-SqlServer-Squirrel-Strong Naming-Swagger-Tfx-Twitter-Vagrant-Version Reader-VS .proj file helpers-Vsce-Watch-Webpack-Wyam-Xamarin-XCode-XDT-Yaml-Yarn
+  
 #HSLIDE
 
 ## Code Slides
