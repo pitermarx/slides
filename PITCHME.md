@@ -1,6 +1,6 @@
 #HSLIDE?image=cake.jpeg
 
-## <span color=white>A PIECE OF CAKE</span>
+## <span style="color:white">A PIECE OF CAKE</span>
 #HSLIDE
 
 ## who i am
