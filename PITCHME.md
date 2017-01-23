@@ -1,4 +1,4 @@
-#HSLIDE?image=cake.jpg
+#HSLIDE?image=cake.jpeg
 
 ## A PIECE OF CAKE
 #HSLIDE
