@@ -12,7 +12,9 @@
 #HSLIDE
 
 ## what is cake
-### Cake (C# Make) is a cross platform build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
+
+Cake (C# Make) is a cross platform build automation system with a C# DSL to do things like compiling code, copy files/folders, running unit tests, compress files and build NuGet packages.
+
 - build automation system              <!-- .element: class="fragment" -->
 - OSS project since 2014               <!-- .element: class="fragment" -->
 - now part of the .net foundation      <!-- .element: class="fragment" -->
@@ -20,7 +22,9 @@
 
 #HSLIDE
 ## What is a build
-### Steps that need to be executed to get usefull artifacts from source code
+
+Steps that need to be executed to get usefull artifacts from source code
+
 - restore              <!-- .element: class="fragment" -->
 - clean               <!-- .element: class="fragment" -->
 - build      <!-- .element: class="fragment" -->
