@@ -1,3 +1,14 @@
+#HSLIDE?image=cake.jpg
+
+## A PIECE OF CAKE
+#HSLIDE
+
+## who i am
+- dev @csw
+- mainly c# and js        <!-- .element: class="fragment" -->
+- lazy. i like automation <!-- .element: class="fragment" -->
+- love cake               <!-- .element: class="fragment" -->
+
 #HSLIDE
 
 ## who i am
